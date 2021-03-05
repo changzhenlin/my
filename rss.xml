@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>常振林的网络日志</title>
-        <link>https://example.com/</link>
+        <link>https://changzhenlin.github.io/my/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.81.0 https://gohugo.io/</generator>
         
@@ -23,9 +23,9 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 04 Mar 2021 21:47:35 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 20:51:13 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://changzhenlin.github.io/my/rss.xml" />
         
         
     </channel>
